@@ -35,7 +35,7 @@ module.exports = {
       },
 
       backgroundImage: {
-        'hero': "url('https://image.marketing.aurenenergia.com.br/lib/fe3915707564047f7d1778/m/1/a192a6d3-b3cd-4c11-a4b4-2059034df3bf.png')",
+        'hero': "url('https://image.marketing.aurenenergia.com.br/lib/fe3915707564047f7d1778/m/1/506f6e04-dd00-42a0-9230-9f4221193d27.png')",
       },
     },
   },
